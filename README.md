@@ -71,3 +71,10 @@ ToxicNoob.Sl4d3.Official@gmail.com
 <b><big> If You Like The Tool, Give it a Star!
 
 Thank You 💞💞 </big></b>
+
+
+<br><br>
+<h3><b><i>Visitors :</i></b></h3>
+
+
+![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
